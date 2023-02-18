@@ -28,6 +28,7 @@ little Java minecraft plugins for me and my friends.
   <img src="https://devicons.railway.app/i/w11.svg" alt="Windows" width="60" height="60"/>
   <img src="icons/intellij.png" alt="Intellij" width="60" height="60"/>
   <img src="icons/phpstorm.png" alt="PhpStorm" width="60" height="60"/>
+  <img src="icons/datagrip.png" alt="Datagrip" width="60" height="60"/>
 </p>
 
 # 📈My stats
