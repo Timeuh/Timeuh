@@ -38,6 +38,8 @@ little Java minecraft plugins for me and my friends.
 <p align="left">
   <img src="https://devicons.railway.app/i/react.svg" alt="React Js" width="60" height="60"/>
   <img src="https://devicons.railway.app/i/vitejs.svg" alt="Vite Js" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
+  <img src="https://devicons.railway.app/i/firebase.svg" alt="Firebase" width="60" height="60"/>
   <img src="https://devicons.railway.app/i/laravel.svg" alt="Laravel" width="60" height="60"/>
 </p>
 
@@ -45,6 +47,7 @@ little Java minecraft plugins for me and my friends.
 <p align="left">
   <img src="https://devicons.railway.app/i/nextjs-light.svg" alt="Next Js" width="60" height="60"/>
   <img src="icons/vercel.png" alt="Vercel" width="60" height="60"/>
+  <img src="https://devicons.railway.app/i/mongodb.svg" alt="MongoDB" width="60" height="60"/>
 </p>
 
 # 📈My stats
