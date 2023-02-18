@@ -29,6 +29,9 @@ little Java minecraft plugins for me and my friends.
   <img src="icons/intellij.png" alt="Intellij" width="60" height="60"/>
   <img src="icons/phpstorm.png" alt="PhpStorm" width="60" height="60"/>
   <img src="icons/datagrip.png" alt="Datagrip" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="60" height="60"/>
+  <img src="https://devicons.railway.app/i/mysql.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="60" height="60"/>
 </p>
 
 # 📈My stats
