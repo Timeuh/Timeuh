@@ -1,6 +1,6 @@
 # 👋Introduction 
 
-Hi, I’m Tim a french student in IT, currently in 2nd year of a Bachelor in Computer Science at IUT Charlemagne in Nancy.
+Hi, I’m Tim a French student in IT, currently in 2nd year of a Bachelor in Computer Science at IUT Charlemagne in Nancy.
 
 I would like to become a full-stack web programmer to work on various projects with cutting edge Javascript or PHP frameworks.
 
@@ -26,7 +26,8 @@ little Java minecraft plugins for me and my friends.
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="60" height="60"/>
   <img src="https://devicons.railway.app/i/w11.svg" alt="Windows" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Jetbrains" width="60" height="60"/>
+  <img src="icons/intellij.png" alt="Intellij" width="60" height="60"/>
+  <img src="icons/phpstorm.png" alt="PhpStorm" width="60" height="60"/>
 </p>
 
 # 📈My stats
