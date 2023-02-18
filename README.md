@@ -44,6 +44,7 @@ little Java minecraft plugins for me and my friends.
 ### 🔍Wanting to learn
 <p align="left">
   <img src="https://devicons.railway.app/i/nextjs-light.svg" alt="Next Js" width="60" height="60"/>
+  <img src="icons/vercel.png" alt="Vercel" width="60" height="60"/>
 </p>
 
 # 📈My stats
