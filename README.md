@@ -9,7 +9,7 @@ little Java minecraft plugins for me and my friends.
 
 # 💻Technologies
 
-### 👍Technologies I know
+### 📱Technologies I know
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="60" height="60"/>
@@ -32,6 +32,18 @@ little Java minecraft plugins for me and my friends.
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="60" height="60"/>
   <img src="https://devicons.railway.app/i/mysql.svg" alt="MySQL" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="60" height="60"/>
+</p>
+
+### 🎓Currently learning
+<p align="left">
+  <img src="https://devicons.railway.app/i/react.svg" alt="React Js" width="60" height="60"/>
+  <img src="https://devicons.railway.app/i/vitejs.svg" alt="Vite Js" width="60" height="60"/>
+  <img src="https://devicons.railway.app/i/laravel.svg" alt="Laravel" width="60" height="60"/>
+</p>
+
+### 🔍Wanting to learn
+<p align="left">
+  <img src="https://devicons.railway.app/i/nextjs-light.svg" alt="Next Js" width="60" height="60"/>
 </p>
 
 # 📈My stats
