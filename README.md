@@ -50,6 +50,9 @@ little Java minecraft plugins for me and my friends.
   <img src="https://devicons.railway.app/i/mongodb.svg" alt="MongoDB" width="60" height="60"/>
 </p>
 
+# 🚀Projects
+I have plenty ideas of project, bu currently I would like to work on my own portfolio to show off my capacities
+
 # 📈My stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=timeuh&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Timeuh%27s%20Github%20Stats)
 
