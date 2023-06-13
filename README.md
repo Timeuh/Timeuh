@@ -56,6 +56,6 @@ You can see my portfolio at https://timeuh.live
 I have plenty ideas of project, but currently I would like to work on my own portfolio to show off my capacities
 
 # 📈My stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=timeuh&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Timeuh%27s%20Github%20Stats)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timeuh&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Timeuh%27s%20Github%20Stats)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=onedark&layout=compact)
+![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&theme=onedark&layout=compact)
