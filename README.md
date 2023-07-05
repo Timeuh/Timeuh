@@ -7,7 +7,7 @@ I would like to become a full-stack web programmer to work on various projects w
 I also like working on little projects such as my personnal portfolio or little web applications, or some 
 little Java minecraft plugins for me and my friends.
 
-You can see my portfolio at https://timeuh.live
+You can see my portfolio at [this link](https://portfolio.timeuh.live/)
 
 # 💻Technologies
 
