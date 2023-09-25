@@ -24,13 +24,13 @@ You can see my portfolio at [this link](https://portfolio.timeuh.live/)
 </p>
 
 ### 🎓Currently learning
-![Learning](https://skillicons.dev/icons?i=nodejs,prisma,express,vercel&theme=dark)
+![Learning](https://skillicons.dev/icons?i=nodejs,prisma,express,vercel,next&theme=dark)
 <p align="left">
   <img src="icons/neon.png" alt="Neon" width="60" height="60"/>
 </p>
 
 ### 🔍Wanting to learn
-![Wanting to learn](https://skillicons.dev/icons?i=mongo,next,vue,nuxt&theme=dark)
+![Wanting to learn](https://skillicons.dev/icons?i=mongo,vue,nuxt&theme=dark)
 
 # 🚀Projects
 ## 🚦Current Project
