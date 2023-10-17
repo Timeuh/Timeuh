@@ -1,11 +1,10 @@
 # 👋Introduction 
 
-Hi, I’m Tim a French student in IT, currently in 2nd year of a Bachelor in Computer Science at IUT Charlemagne in Nancy.
+Hi, I’m Tim a French student in IT, currently in 3rd year of a Bachelor in Computer Science at IUT Charlemagne in Nancy.
 
-I would like to become a full-stack or a front-end (not decided yet) web developer to work on various projects with cutting edge Javascript frameworks.
+I would like to become a full-stack or a front-end (not decided yet) React Js developer to work on various projects with cutting edge Javascript frameworks such as Next Js.
 
-I also like working on little projects such as my personal portfolio or little web applications, or some 
-little Java minecraft plugins for me and my friends.
+I also like working on little projects like as my personal portfolio or little web applications.
 
 You can see my portfolio at [this link](https://portfolio.timeuh.live/)
 
@@ -15,7 +14,7 @@ You can see my portfolio at [this link](https://portfolio.timeuh.live/)
 ![I know](https://skillicons.dev/icons?i=html,css,js,php,java,c,react,tailwind,laravel&theme=dark)
 
 ### 🔨Tools I know
-![Tools](https://skillicons.dev/icons?i=bash,linux,git,github,mysql,vite,firebase&theme=dark)
+![Tools](https://skillicons.dev/icons?i=bash,linux,git,github,mysql,vite,firebase,docker&theme=dark)
 <p align="left">
   <img src="https://devicons.railway.app/i/w11.svg" alt="Windows" width="60" height="60"/>
   <img src="icons/intellij.png" alt="Intellij" width="60" height="60"/>
