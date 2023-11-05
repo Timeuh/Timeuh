@@ -6,7 +6,7 @@ I would like to become a full-stack or a front-end (not decided yet) React Js de
 
 I also like working on little projects like as my personal portfolio or little web applications.
 
-You can see my portfolio at [this link](https://portfolio.timeuh.live/)
+You can see my portfolio at [this link](https://portfolio.timeuh.fr/)
 
 # 💻Technologies
 
@@ -32,25 +32,30 @@ You can see my portfolio at [this link](https://portfolio.timeuh.live/)
 ![Wanting to learn](https://skillicons.dev/icons?i=mongo,vue,nuxt&theme=dark)
 
 # 🚀Projects
-## 🚦Current Project
+## 🚦Current Project : ✅Done
 
 - ### 🖹 Wankul API
 API and backend to manage cards data of a trading card game created by Wankil Studio, [see here](https://wankul.fr/collections/cartes) for the original game.
 
-![Node Js](https://img.shields.io/badge/Node_JS-Server_Runtime-green?style=for-the-badge&logo=node.js)
+![Wankul_API](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)
 
-![Express](https://img.shields.io/badge/Express-API_Structure-black?style=for-the-badge&logo=express)
-
-![Prisma](https://img.shields.io/badge/Prisma-Javascript_ORM-%231A202C?style=for-the-badge&logo=prisma)
-
-![Neon](https://img.shields.io/badge/Neon-Postgres_database-%2300E699?style=for-the-badge)
-
-![Zod](https://img.shields.io/badge/Zod-Typescript_schema_validation-%233068B7?style=for-the-badge&logo=zod)
+<p align="left">
+  <img src="icons/neon.png" alt="Neon" width="60" height="60"/>
+  <img src="icons/zod.svg" alt="Zod" width="70" height="60"/>
+</p>
 
 - ### 🃏 WankulDex
 Display site for each Wankul card, using my Wankul API.
 
-#### ℹ️ Currently in development, come back later !
+![Wankul_API](https://skillicons.dev/icons?i=next,typescript,tailwind&theme=dark)
+<p align="left">
+  <img src="icons/zod.svg" alt="Zod" width="70" height="60"/>
+  <img src="icons/react-query.png" alt="React-Query" width="60" height="60"/>
+  <img src="icons/prettier.png" alt="Prettier" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="60" height="60"/>
+</p>
+
+#### ℹ️ Vew at [WankulDex](https://wankuldex.timeuh.fr)
 
 ## 📚 Other Projects
 
