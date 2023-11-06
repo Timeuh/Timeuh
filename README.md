@@ -10,54 +10,52 @@ You can see my portfolio at [this link](https://portfolio.timeuh.fr/)
 
 # 💻Technologies
 
-### 📱Technologies I know
+## 📱Technologies I know
 ![I know](https://skillicons.dev/icons?i=html,css,js,php,java,c,react,tailwind,laravel&theme=dark)
 
-### 🔨Tools I know
-![Tools](https://skillicons.dev/icons?i=bash,linux,git,github,mysql,vite,firebase,docker&theme=dark)
+## 🔨Tools I know
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,mysql,vite,firebase,docker&theme=dark" height="60"/>
   <img src="https://devicons.railway.app/i/w11.svg" alt="Windows" width="60" height="60"/>
   <img src="icons/intellij.png" alt="Intellij" width="60" height="60"/>
   <img src="icons/phpstorm.png" alt="PhpStorm" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="60" height="60"/>
 </p>
 
-### 🎓Currently learning
-![Learning](https://skillicons.dev/icons?i=nodejs,prisma,express,vercel,next&theme=dark)
+## 🎓Currently learning
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,express,vercel,next&theme=dark" height="60"/>
   <img src="icons/neon.png" alt="Neon" width="60" height="60"/>
 </p>
 
-### 🔍Wanting to learn
+## 🔍Wanting to learn
 ![Wanting to learn](https://skillicons.dev/icons?i=mongo,vue,nuxt&theme=dark)
 
 # 🚀Projects
 ## 🚦Current Project : ✅Done
 
-- ### 🖹 Wankul API
+## 🖹 Wankul API
 API and backend to manage cards data of a trading card game created by Wankil Studio, [see here](https://wankul.fr/collections/cartes) for the original game.
 
-![Wankul_API](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)
-
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" height="60"/>
   <img src="icons/neon.png" alt="Neon" width="60" height="60"/>
   <img src="icons/zod.svg" alt="Zod" width="70" height="60"/>
 </p>
 
-- ### 🃏 WankulDex
+## 🃏 WankulDex
 Display site for each Wankul card, using my Wankul API.
+#### ℹ️ Vew at [WankulDex](https://wankuldex.timeuh.fr)
 
-![Wankul_API](https://skillicons.dev/icons?i=next,typescript,tailwind&theme=dark)
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=next,typescript,tailwind&theme=dark" height="60"/>
   <img src="icons/zod.svg" alt="Zod" width="70" height="60"/>
   <img src="icons/react-query.png" alt="React-Query" width="60" height="60"/>
   <img src="icons/prettier.png" alt="Prettier" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="60" height="60"/>
 </p>
 
-#### ℹ️ Vew at [WankulDex](https://wankuldex.timeuh.fr)
-
-## 📚 Other Projects
+# 📚 Other Projects
 
 ### 🧑🏻‍💻 Personal Portfolio V2  🖱️[see code here](https://github.com/Timeuh/Portfolio-v2)
 ![Portfolio-V2](https://skillicons.dev/icons?i=react,typescript,tailwind,firebase,figma&theme=dark)
