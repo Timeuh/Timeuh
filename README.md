@@ -11,15 +11,12 @@ You can see my portfolio at [this link](https://portfolio.timeuh.fr/)
 # 💻Technologies
 
 ## 📱Technologies I know
-![I know](https://skillicons.dev/icons?i=html,css,js,php,java,c,react,tailwind,laravel&theme=dark)
+![I know](https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,laravel,vue&theme=dark)
 
 ## 🔨Tools I know
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,mysql,vite,firebase,docker&theme=dark" height="60"/>
-  <img src="https://devicons.railway.app/i/w11.svg" alt="Windows" width="60" height="60"/>
-  <img src="icons/intellij.png" alt="Intellij" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,mysql,postgresql,mongodb,vite,firebase,docker&theme=dark" height="60"/>
   <img src="icons/phpstorm.png" alt="PhpStorm" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="60" height="60"/>
 </p>
 
 ## 🎓Currently learning
@@ -29,7 +26,7 @@ You can see my portfolio at [this link](https://portfolio.timeuh.fr/)
 </p>
 
 ## 🔍Wanting to learn
-![Wanting to learn](https://skillicons.dev/icons?i=mongo,vue,nuxt&theme=dark)
+![Wanting to learn](https://skillicons.dev/icons?i=nuxt,remix&theme=dark)
 
 # 🚀Projects
 ## 🚦Current Project : ✅Done
