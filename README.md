@@ -29,18 +29,16 @@ You can see my portfolio at [this link](https://portfolio.timeuh.fr/)
 ![Wanting to learn](https://skillicons.dev/icons?i=nuxt,remix&theme=dark)
 
 # 🚀Projects
-## 🚦Current Project : ✅Done
+## 🚦Current Project :
 
-## 🖹 Wankul API
-API and backend to manage cards data of a trading card game created by Wankil Studio, [see here](https://wankul.fr/collections/cartes) for the original game.
+### 🧑🏻‍💻 New Portfolio ⚠️ WIP
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" height="60"/>
-  <img src="icons/neon.png" alt="Neon" width="60" height="60"/>
-  <img src="icons/zod.svg" alt="Zod" width="70" height="60"/>
-</p>
+My new portfolio, using all of my current knowledge, including Next Js, Prisma, React-Query.
+Also the occasion to learn optimistic updates (managing experiences and technologies part of the site) and Panda CSS.
 
-## 🃏 WankulDex
+## 📚 Other Projects
+
+### 🃏 WankulDex 🖱️[see code here](https://github.com/Timeuh/Wankuldex)
 Display site for each Wankul card, using my Wankul API.
 #### ℹ️ Vew at [WankulDex](https://wankuldex.timeuh.fr)
 
@@ -52,7 +50,14 @@ Display site for each Wankul card, using my Wankul API.
   <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="60" height="60"/>
 </p>
 
-# 📚 Other Projects
+### 🖹 Wankul API 🖱️[see code here](https://github.com/Timeuh/Wankul-API)
+API and backend to manage cards data of a trading card game created by Wankil Studio, [see here](https://wankul.fr/collections/cartes) for the original game.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" height="60"/>
+  <img src="icons/neon.png" alt="Neon" width="60" height="60"/>
+  <img src="icons/zod.svg" alt="Zod" width="70" height="60"/>
+</p>
 
 ### 🧑🏻‍💻 Personal Portfolio V2  🖱️[see code here](https://github.com/Timeuh/Portfolio-v2)
 ![Portfolio-V2](https://skillicons.dev/icons?i=react,typescript,tailwind,firebase,figma&theme=dark)
