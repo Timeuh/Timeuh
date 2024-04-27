@@ -6,7 +6,7 @@ I would like to become a full-stack or a front-end (not decided yet) React Js de
 
 I also like working on little projects like as my personal portfolio or little web applications.
 
-You can see my portfolio at [this link](https://portfolio.timeuh.fr/)
+You can see my portfolio at [this link](https://timeuh.fr)
 
 # 💻Technologies
 
