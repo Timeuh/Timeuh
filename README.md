@@ -1,17 +1,17 @@
 # 👋Introduction 
 
-Hi, I’m Tim a French student in IT, currently in 3rd year of a Bachelor in Computer Science at IUT Charlemagne in Nancy.
+Hi, I’m Tim, I have just graduated with a Bachelor's degree in Computer Science from IUT Charlemagne in Nancy.
 
-I would like to become a full-stack or a front-end (not decided yet) React Js developer to work on various projects with cutting edge Javascript frameworks such as Next Js.
+I am a fullstack React Js developer, with a preference for the frontend. I am used to work on projects with cutting edge Javascript frameworks such as Next Js.
 
-I also like working on little projects like as my personal portfolio or little web applications.
+I also like working on little projects like my personal portfolio or little web applications.
 
 You can see my portfolio at [this link](https://timeuh.fr)
 
 # 💻Technologies
 
 ## 📱Technologies I know
-![I know](https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,laravel,vue&theme=dark)
+![I know](https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,laravel,vue,nuxt,next,prisma&theme=dark)
 
 ## 🔨Tools I know
 <p align="left">
@@ -19,24 +19,26 @@ You can see my portfolio at [this link](https://timeuh.fr)
   <img src="icons/phpstorm.png" alt="PhpStorm" width="60" height="60"/>
 </p>
 
-## 🎓Currently learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,express,vercel,next&theme=dark" height="60"/>
-  <img src="icons/neon.png" alt="Neon" width="60" height="60"/>
-</p>
-
-## 🔍Wanting to learn
-![Wanting to learn](https://skillicons.dev/icons?i=nuxt,remix&theme=dark)
-
 # 🚀Projects
 ## 🚦Current Project :
 
-### 🧑🏻‍💻 New Portfolio ⚠️ WIP
-
-My new portfolio, using all of my current knowledge, including Next Js, Prisma, React-Query.
-Also the occasion to learn optimistic updates (managing experiences and technologies part of the site) and Panda CSS.
+### 💡QuizzTure
+A web game based on general culture questions with different game modes. Play with your friends on private game rooms !
 
 ## 📚 Other Projects
+
+### 🧑🏻‍💻 New Portfolio 🖱️[see code here](https://github.com/Timeuh/Portfolio)
+My new portfolio, using all of my current knowledge, including Next Js, Prisma, React-Query.
+Also the occasion to learn optimistic updates (managing experiences and technologies part of the site) and Panda CSS.
+#### ℹ️ Vew at [Portfolio](https://timeuh.fr)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=next,typescript,prisma&theme=dark" height="60"/>
+  <img src="icons/zod.svg" alt="VineJs" width="70" height="60"/>
+  <img src="icons/react-query.png" alt="React-Query" width="60" height="60"/>
+  <img src="icons/prettier.png" alt="Prettier" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="60" height="60"/>
+</p>
 
 ### 🃏 WankulDex 🖱️[see code here](https://github.com/Timeuh/Wankuldex)
 Display site for each Wankul card, using my Wankul API.
