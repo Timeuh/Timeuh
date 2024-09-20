@@ -34,7 +34,8 @@ Also the occasion to learn optimistic updates (managing experiences and technolo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=next,typescript,prisma&theme=dark" height="60"/>
-  <img src="icons/zod.svg" alt="VineJs" width="70" height="60"/>
+  <img src="icons/vinejs.png" alt="VineJs" width="60" height="60"/>
+  <img src="icons/panda.png" alt="PandaCSS" width="60" height="60"/>
   <img src="icons/react-query.png" alt="React-Query" width="60" height="60"/>
   <img src="icons/prettier.png" alt="Prettier" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="60" height="60"/>
