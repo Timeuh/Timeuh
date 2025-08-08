@@ -22,8 +22,8 @@ You can see my portfolio at [this link](https://timeuh.fr)
 # 🚀Projects
 ## 🚦Current Project :
 
-### 💡QuizzTure
-A web game based on general culture questions with different game modes. Play with your friends on private game rooms !
+### 🃏 Drawkul
+A web application mixing gacha and Wankul cards ! Collect all the Wankil Studio inspired cards and show off to your friends !
 
 ## 📚 Other Projects
 
