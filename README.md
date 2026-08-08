@@ -1,80 +1,66 @@
 # 👋Introduction 
+Hi, I’m Tim, currently in internship as a web developer until 10/2028.
+I am a fullstack web developer, with a preference for the frontend. I love doing small or medium projects when I have an idea, though I don't finish all of them.
+I've got a portfolio you can see on [this link](https://timeuh.fr) !
 
-Hi, I’m Tim, I have just graduated with a Bachelor's degree in Computer Science from IUT Charlemagne in Nancy.
-
-I am a fullstack React Js developer, with a preference for the frontend. I am used to work on projects with cutting edge Javascript frameworks such as Next Js.
-
-I also like working on little projects like my personal portfolio or little web applications.
-
-You can see my portfolio at [this link](https://timeuh.fr)
-
-# 💻Technologies
-
-## 📱Technologies I know
-![I know](https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,laravel,vue,nuxt,next,prisma&theme=dark)
-
-## 🔨Tools I know
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,mysql,postgresql,mongodb,vite,firebase,docker&theme=dark" height="60"/>
-  <img src="icons/phpstorm.png" alt="PhpStorm" width="60" height="60"/>
-</p>
-
-# 🚀Projects
+# 🚀 My Projects
 ## 🚦Current Project :
-
-### 🃏 Drawkul
-A web application mixing gacha and Wankul cards ! Collect all the Wankil Studio inspired cards and show off to your friends !
+### 🥘 Gourmand
+A web app to log the foods you eat on day-to-day basis. It helps you track the diversity of the food you eat from your own recipes, and let you customize you monthly objective of different eaten foods.
 
 ## 📚 Other Projects
+### 🧑🏻‍💻 New Portfolio
+Most recent iteration of my portfolio. I wanted to do a more minimalistic site focused on the information I wanted to show.
+#### 🖱️[see code here](https://github.com/Timeuh/portnewlio), ℹ️ View at [Portfolio](https://timeuh.fr)
 
-### 🧑🏻‍💻 New Portfolio 🖱️[see code here](https://github.com/Timeuh/Portfolio)
-My new portfolio, using all of my current knowledge, including Next Js, Prisma, React-Query.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=next,typescript,prisma,tailwind&theme=dark" height="30"/>
+  <img src="icons/vinejs.png" alt="VineJs" width="30" height="30"/>
+  <img src="icons/react-query.png" alt="React-Query" width="30" height="30"/>
+  <img src="icons/prettier.png" alt="Prettier" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="30" height="30"/>
+</p>
+
+### 🧑🏻‍💻 Old Portfolio
+My old portfolio, using all my knowledge at this time, including Next Js, Prisma, React-Query.
 Also the occasion to learn optimistic updates (managing experiences and technologies part of the site) and Panda CSS.
-#### ℹ️ Vew at [Portfolio](https://timeuh.fr)
+#### 🖱️[see code here](https://github.com/Timeuh/Portfolio), ℹ️ View at [old portfolio](https://portfolio.timeuh.fr)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=next,typescript,prisma&theme=dark" height="60"/>
-  <img src="icons/vinejs.png" alt="VineJs" width="60" height="60"/>
-  <img src="icons/panda.png" alt="PandaCSS" width="60" height="60"/>
-  <img src="icons/react-query.png" alt="React-Query" width="60" height="60"/>
-  <img src="icons/prettier.png" alt="Prettier" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=next,typescript,prisma&theme=dark" height="30"/>
+  <img src="icons/vinejs.png" alt="VineJs" width="30" height="30"/>
+  <img src="icons/panda.png" alt="PandaCSS" width="30" height="30"/>
+  <img src="icons/react-query.png" alt="React-Query" width="30" height="30"/>
+  <img src="icons/prettier.png" alt="Prettier" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="30" height="30"/>
 </p>
 
-### 🃏 WankulDex 🖱️[see code here](https://github.com/Timeuh/Wankuldex)
+### 🃏 WankulDex
 Display site for each Wankul card, using my Wankul API.
-#### ℹ️ Vew at [WankulDex](https://wankuldex.timeuh.fr)
+#### 🖱️[see code here](https://github.com/Timeuh/Wankuldex), ℹ️ Not online anymore
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=next,typescript,tailwind&theme=dark" height="60"/>
-  <img src="icons/zod.svg" alt="Zod" width="70" height="60"/>
-  <img src="icons/react-query.png" alt="React-Query" width="60" height="60"/>
-  <img src="icons/prettier.png" alt="Prettier" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=next,typescript,tailwind&theme=dark" height="30"/>
+  <img src="icons/zod.svg" alt="Zod" width="30" height="30"/>
+  <img src="icons/react-query.png" alt="React-Query"  width="30" height="30"/>
+  <img src="icons/prettier.png" alt="Prettier"  width="30" height="30""/>
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="EsLint"  width="30" height="30"/>
 </p>
 
-### 🖹 Wankul API 🖱️[see code here](https://github.com/Timeuh/Wankul-API)
-API and backend to manage cards data of a trading card game created by Wankil Studio, [see here](https://wankul.fr/collections/cartes) for the original game.
+### 🖹 Wankul API
+API and backend to manage cards data of a trading card game created by Wankil Studio, [see here](https://wankul.fr/apps/wankul/wankuldex) for the original game.
+#### 🖱️[see code here](https://github.com/Timeuh/Wankul-API)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" height="60"/>
-  <img src="icons/neon.png" alt="Neon" width="60" height="60"/>
-  <img src="icons/zod.svg" alt="Zod" width="70" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" height="30"/>
+  <img src="icons/neon.png" alt="Neon"  width="30" height="30"/>
+  <img src="icons/zod.svg" alt="Zod"  width="30" height="30"/>
 </p>
 
-### 🧑🏻‍💻 Personal Portfolio V2  🖱️[see code here](https://github.com/Timeuh/Portfolio-v2)
-![Portfolio-V2](https://skillicons.dev/icons?i=react,typescript,tailwind,firebase,figma&theme=dark)
+### 🧑🏻‍💻 Personal Portfolio V2
+Second iteration of my portfolio, I wanted to try things with the design and interactivity.
+#### 🖱️[see code here](https://github.com/Timeuh/Portfolio-v2), ℹ️ View at [portfolio v2](https://portfolio-v2.timeuh.fr)
 
-### 💻 Pinit 🖱️[see code here](https://github.com/Timeuh/Pinit)
-![Pinit](https://skillicons.dev/icons?i=nodejs,typescript&theme=dark)
-
-### 🧑🏻‍💻 Personal Portfolio V1 🖱️[see code here](https://github.com/Timeuh/Portfolio)
-![Portfolio-V1](https://skillicons.dev/icons?i=react,javascript,tailwind,firebase&theme=dark)
-
-### 🎜 Spotifree 🖱️[see code here](https://github.com/Timeuh/Spotifree)
-![Spotifree](https://skillicons.dev/icons?i=php,tailwind&theme=dark)
-
-# 📈My stats
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=timeuh&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Timeuh%27s%20Github%20Stats)
-
-![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&theme=onedark&layout=compact)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,firebase,figma&theme=dark" height="30"/>
+</p>
